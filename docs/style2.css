@@ -148,7 +148,24 @@ a:active{
         margin: 1% 25% 1% 25%;
         border-radius: 15px;
     }
-    
+
+    label{
+        font-family: tp;
+        color: rgb(44, 178, 255);
+    }
+
+    table{
+        color: rgb(255, 167, 167);
+        text-align: center;
+        width: 15cm;
+        height: 1cm;
+        border-color: rgb(255, 88, 88);
+    }
+
+    thead{
+        color: rgb(143, 233, 255);
+    }
+
     nav{
         padding-bottom: 1%;
         font-family: tp;
@@ -231,7 +248,23 @@ a:active{
         border-radius: 5px;
         color: beige;
     }
-    
+
+        label{
+        font-family: tp;
+        color: rgb(44, 178, 255);
+    }
+
+    table{
+        color: rgb(255, 167, 167);
+        text-align: center;
+        width: 15cm;
+        height: 1cm;
+        border-color: rgb(255, 88, 88);
+    }
+
+    thead{
+        color: rgb(143, 233, 255);
+    }
     img{
         margin: 1% 25% 1% 25%;
         border-radius: 15px;
@@ -324,6 +357,23 @@ a:active{
         margin: 1% 25% 1% 25%;
         border-radius: 15px;
     }
+
+        label{
+        font-family: tp;
+        color: rgb(44, 178, 255);
+    }
+
+    table{
+        color: rgb(255, 167, 167);
+        text-align: center;
+        width: 15cm;
+        height: 1cm;
+        border-color: rgb(255, 88, 88);
+    }
+
+    thead{
+        color: rgb(143, 233, 255);
+    }
     
     nav{
         padding-bottom: 1%;
@@ -412,7 +462,22 @@ a:active{
         margin: 1% 25% 1% 25%;
         border-radius: 15px;
     }
-    
+        label{
+        font-family: tp;
+        color: rgb(44, 178, 255);
+    }
+
+    table{
+        color: rgb(255, 167, 167);
+        text-align: center;
+        width: 15cm;
+        height: 1cm;
+        border-color: rgb(255, 88, 88);
+    }
+
+    thead{
+        color: rgb(143, 233, 255);
+    }
     nav{
         padding-bottom: 1%;
         font-family: tp;
