@@ -55,17 +55,21 @@ label{
     color: rgb(44, 178, 255);
 }
 
-table{
-    color: rgb(255, 167, 167);
-    text-align: center;
-    width: 15cm;
-    height: 1cm;
-    border-color: rgb(255, 88, 88);
+table {
+    width: 100%;
 }
-
-thead{
-    color: rgb(143, 233, 255);
+  
+table th, table td {
+    padding: 8px;
 }
+  
+table th {
+    font-size: 16px;
+}
+  
+table td {
+    font-size: 14px;
+}  
 
 a{
     color: rgb(165, 255, 195);
