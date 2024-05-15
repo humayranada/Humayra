@@ -55,21 +55,17 @@ label{
     color: rgb(44, 178, 255);
 }
 
-table {
-    width: 100%;
+table{
+    color: rgb(255, 167, 167);
+    text-align: center;
+    width: 15cm;
+    height: 1cm;
+    border-color: rgb(255, 88, 88);
 }
-  
-table th, table td {
-    padding: 8px;
+
+thead{
+    color: rgb(143, 233, 255);
 }
-  
-table th {
-    font-size: 16px;
-}
-  
-table td {
-    font-size: 14px;
-}  
 
 a{
     color: rgb(165, 255, 195);
@@ -152,12 +148,12 @@ a:active{
         margin: 1% 25% 1% 25%;
         border-radius: 15px;
     }
-
+    
     label{
         font-family: tp;
         color: rgb(44, 178, 255);
     }
-
+    
     table{
         color: rgb(255, 167, 167);
         text-align: center;
@@ -165,11 +161,11 @@ a:active{
         height: 1cm;
         border-color: rgb(255, 88, 88);
     }
-
+    
     thead{
         color: rgb(143, 233, 255);
     }
-
+    
     nav{
         padding-bottom: 1%;
         font-family: tp;
@@ -252,23 +248,7 @@ a:active{
         border-radius: 5px;
         color: beige;
     }
-
-        label{
-        font-family: tp;
-        color: rgb(44, 178, 255);
-    }
-
-    table{
-        color: rgb(255, 167, 167);
-        text-align: center;
-        width: 15cm;
-        height: 1cm;
-        border-color: rgb(255, 88, 88);
-    }
-
-    thead{
-        color: rgb(143, 233, 255);
-    }
+    
     img{
         margin: 1% 25% 1% 25%;
         border-radius: 15px;
@@ -279,6 +259,19 @@ a:active{
         font-family: tp;
     }
     
+    label{
+        font-family: tp;
+        color: rgb(44, 178, 255);
+    }
+    
+    table{
+        color: rgb(255, 167, 167);
+        text-align: center;
+        width: 15cm;
+        height: 1cm;
+        border-color: rgb(255, 88, 88);
+    }
+
     a{
         color: rgb(165, 255, 195);
     }
@@ -361,27 +354,23 @@ a:active{
         margin: 1% 25% 1% 25%;
         border-radius: 15px;
     }
-
-        label{
+    
+    nav{
+        padding-bottom: 1%;
+        font-family: tp;
+    }
+    
+    label{
         font-family: tp;
         color: rgb(44, 178, 255);
     }
-
+    
     table{
         color: rgb(255, 167, 167);
         text-align: center;
         width: 15cm;
         height: 1cm;
         border-color: rgb(255, 88, 88);
-    }
-
-    thead{
-        color: rgb(143, 233, 255);
-    }
-    
-    nav{
-        padding-bottom: 1%;
-        font-family: tp;
     }
     
     a{
@@ -466,25 +455,23 @@ a:active{
         margin: 1% 25% 1% 25%;
         border-radius: 15px;
     }
-        label{
+    
+    nav{
+        padding-bottom: 1%;
+        font-family: tp;
+    }
+    
+    label{
         font-family: tp;
         color: rgb(44, 178, 255);
     }
-
+    
     table{
         color: rgb(255, 167, 167);
         text-align: center;
         width: 15cm;
         height: 1cm;
         border-color: rgb(255, 88, 88);
-    }
-
-    thead{
-        color: rgb(143, 233, 255);
-    }
-    nav{
-        padding-bottom: 1%;
-        font-family: tp;
     }
     
     a{
